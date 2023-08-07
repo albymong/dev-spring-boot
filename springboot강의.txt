@@ -362,6 +362,10 @@ spring-boot-starter-data-jpa : Spring Data JPA (Hibernate)
 spring-boot-starter-cache : 캐시
 
 
+-----------------------------
+@MappedSuperclass 1:19:07
+-----------------------------
+//listener controller
 
 
 
